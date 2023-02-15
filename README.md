@@ -80,7 +80,7 @@ Simply clone the repo cd into the right directory and run the code. Step-by-Step
 
 7. Run `ar_april_tag.py` to generate calibration matrix and distortion index.
     ```sh 
-    python ar_april_tag.py
+    python ar_april_tag.py -t DICT_4X4_100
     ```
 
 
