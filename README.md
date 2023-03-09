@@ -21,9 +21,7 @@ This repo contains simple python script to create augmented reality using OpenCV
 
 ### Augmented Reality on Live Webcam
 
-![Img_output_demo](assets/AR_demo1.png)
-![Img_output_demo](assets/AR_demo2.png)
-
+![Img_output_demo](assets/AR_demo3.gif)
 
 
 ## Dependencies 
@@ -51,7 +49,7 @@ Simply clone the repo cd into the right directory and run the code. Step-by-Step
    git clone https://github.com/sudharsan-007/Augmented-reality-webcam.git
    ```
 
-2. cd into the directory RL-DQN-Snake-Game
+2. cd into the directory Augmented-reality-webcam
    ```sh
    cd Augmented-reality-webcam
    ```
